@@ -1,4 +1,5 @@
 const path = require('path');
+console.log('test222')
 console.log('test111')
 module.exports = {
   entry: './src/index.js',
