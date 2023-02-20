@@ -1,4 +1,5 @@
 const path = require('path');
+console.log('test666')
 console.log('test444')
 console.log('test333')
 console.log('test222')
